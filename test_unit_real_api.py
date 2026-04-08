@@ -11,7 +11,6 @@ class DummyLogger:
 
 class NullNotifier:
     def send(self, to, message):
-        # TODO: implementar un notifier que no haga nada
         pass
 
 
